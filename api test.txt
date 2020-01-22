@@ -1,0 +1,7 @@
+curl -X POST \
+  https://api.instagram.com/oauth/access_token \
+  -F client_id=253968115574279 \
+  -F client_secret=3fc88e976df6f68d6cdd28413a0000eb \
+  -F grant_type=authorization_code \
+  -F redirect_uri=https://github.com/M00N3Y/skatehaven.git \
+  -F code=AQBqC2xx1ZG7jxEHpfkAFwiv-JGwJSwVJWd0N2F0VDcGAG1aq7G7gJoZ1E7QZnRMURLmQBmn0Uai8TrZLV62dnA6Rc364SOc7FdtojccpMKSZxXkuDdV_1TiAcMP-L7b5U8eV9yMagmY8iduKcAA-g_Z1Q9X5SGGgcswqO5BlEIxEjDNLuGCU4sU5rSd-UuyhX_YWvV9YrrXmL1iBfhXa-hMxXZHNpgdMYe7c8ry5Qlhjg
